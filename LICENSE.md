@@ -1,4 +1,4 @@
-# 
+# automatic osmosis trading bot Addon | blockchain-scanning + rug-pull-detection is the best osmosis trading bot, featuring blockchain-scanning and rug-pull-detection. Smart, fast,
 
 
 
